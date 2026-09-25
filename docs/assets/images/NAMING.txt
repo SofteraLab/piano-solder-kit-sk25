@@ -1,0 +1,10 @@
+Images for PIANO Kit:
+
+images/
+  en/  English cards + shared photos — README.md, docs/en/
+  uk/  Ukrainian originals — README.uk.md, docs/
+
+Names:
+  banner, kit-intro, how-it-works, ready
+  soldering-buttons, diode-d1, speaker
+  logo
