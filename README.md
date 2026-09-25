@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">PIANO Kit</h1>
+<h1 align="center">PIANO Solder Kit</h1>
 
 <p align="center"><strong>Softera Lab MIDI / tone practice kit — solder 1206, SOIC-8, USB, and buttons</strong></p>
 
